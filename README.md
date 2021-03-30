@@ -7,10 +7,10 @@
 ----
 ```
 Yes .. You can see : 
-* Premium Accounts
-* Free Accounts
-* TV Accounts
-* Invalid Accounts
+* Premium Emails
+* Free Emails
+* TV Emails
+* Invalid Emails
 ```
 *using*
 ----
