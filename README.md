@@ -23,6 +23,7 @@ Click on "Netflix Email Valid Checker v1.exe"
 *Screenshots*
 ----
 
-<img src="work1.png">
-
-<img src="work2.png">
+<p float="left">
+  <img src="work1.png" width="500" />
+  <img src="work2.png" width="500" /> 
+</p>
